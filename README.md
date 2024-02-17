@@ -1,5 +1,5 @@
 😄 Hi, I'm Mariia.
-I'm a reporting analyst and aspiring data scientist with a passion for solving problems with data. I have a strong academic background in mathematics and a practical experience in data analysis and reporting. 
+I'm a reporting analyst and an aspiring data scientist with a passion for solving problems with data. I have a strong academic background in mathematics and a practical experience in data analysis and reporting. 
 
 🌱 I'm currently studying at HyperionDev data science bootcamp, where I'm learning advanced skills in data analysis, such as statistical programming, machine learning, and data visualization.
 
