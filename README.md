@@ -1,16 +1,26 @@
-### Hi there 👋
+😄 Hi, I'm Mariia.
+I'm a reporting analyst and aspiring data scientist with a passion for solving problems with data. I have a strong academic background in mathematics and a practical experience in data analysis and reporting. 
 
-<!--
-**mariiapol/mariiapol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm currently studying at HyperionDev data science bootcamp, where I'm learning advanced skills in data analysis, such as statistical programming, machine learning, and data visualization.
 
-Here are some ideas to get you started:
+💬 Skills and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•  Excel
+•  Python
+•  SQL
+•  Tableau
+•  Linear Algebra
+•  Calculus
+•  Optimization
+
+
+📫Contact Me
+
+If you want to get in touch with me, you can reach me at:
+•  polishchuk.mariya'gmail.com
+•  https://www.linkedin.com/in/polishchuk-mariia/
+
+
+⚡I'm always open to new opportunities, collaborations, and learning new things. Feel free to say hi! 
+
+
