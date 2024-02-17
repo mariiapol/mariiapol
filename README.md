@@ -16,7 +16,6 @@ I'm a reporting analyst and an aspiring data scientist with a passion for solvin
 
 📫Contact Me
 
-If you want to get in touch with me, you can reach me at:
 •  polishchuk.mariya@gmail.com
 •  https://www.linkedin.com/in/polishchuk-mariia/
 
